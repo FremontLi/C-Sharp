@@ -1,0 +1,16 @@
+using System;
+public class HelloWorld
+{
+	public static void Main(String []args)
+	{
+		Console.WriteLine("Hello World!我是李政民!");
+		int [,]a={1,2,5,3,4,0,5,6,7};
+
+		foreach(int i in a)
+		{
+			Console.WriteLine(i);
+		}
+
+		Console.ReadLine();
+	}
+}

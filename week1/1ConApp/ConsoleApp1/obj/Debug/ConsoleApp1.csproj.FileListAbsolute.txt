@@ -1,0 +1,14 @@
+F:\C#代码\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\C#代码\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\C#代码\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\C#代码\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\C#代码\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\C#代码\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\C#代码\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ASUS\Desktop\大二下\7软件构造基础\2018302110388-李政民-第一次作业\1控制台应用程序\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ASUS\Desktop\大二下\7软件构造基础\2018302110388-李政民-第一次作业\1控制台应用程序\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ASUS\Desktop\大二下\7软件构造基础\2018302110388-李政民-第一次作业\1控制台应用程序\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ASUS\Desktop\大二下\7软件构造基础\2018302110388-李政民-第一次作业\1控制台应用程序\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\大二下\7软件构造基础\2018302110388-李政民-第一次作业\1控制台应用程序\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\大二下\7软件构造基础\2018302110388-李政民-第一次作业\1控制台应用程序\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ASUS\Desktop\大二下\7软件构造基础\2018302110388-李政民-第一次作业\1控制台应用程序\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+F:\C#代码\2018302110388-李政民-第二次作业\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+F:\C#代码\2018302110388-李政民-第二次作业\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+F:\C#代码\2018302110388-李政民-第二次作业\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+F:\C#代码\2018302110388-李政民-第二次作业\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+F:\C#代码\2018302110388-李政民-第二次作业\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+F:\C#代码\2018302110388-李政民-第二次作业\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+F:\C#代码\2018302110388-李政民-第二次作业\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
